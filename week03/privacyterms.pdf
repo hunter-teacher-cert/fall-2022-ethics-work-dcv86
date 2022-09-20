@@ -1,0 +1,9 @@
+WhatsApp vs Signal:
+For my analysis, I examined the privacy policies of Signal vs. Whatsapp. Both tout hefty claims regarding end-to-end encryption and data security, but I found that only Signal comes close to holding true to that claim. 
+
+
+WhatsApp is arguably the better known and used service, but its claims on privacy are dubious at best.  What really stood out to me when reading the privacy policy was how much personal data is collected from this app -- location (general and specific), usage information, and contact information. Although there is end-to-end encryption of messages, the company is owned by Facebook/Meta which is notorious for data collection. There are many instances where information is collected, but claims of privacy only come when 'the user disables the feature on their device'... which, I'm sure, most people do not do. 
+
+Unlike WhatsApp, Signal is a non-profit, 5013c organization and is run by user donations and grants. Additionally, based on the privacy policy, Signal does not collect Location, Transaction data, or Product Interactions. Although there are some basic items that need to be shared in order for the service to function (device ID, etc), that information is not stored on Signal servers and is only used for transmission of end-to-end encrypted messages. 
+
+Additionally, there are substantiated claims of Facebook/Meta breaking the terms and conditions for WhatsApp by collecting and sharing more data and information than stated. Overall, it's clear that the user-funded app is a better service and makes good on their claim more than the facebook service. 
