@@ -1,4 +1,4 @@
-# FILENAME
+# GOL
 # Dave Ciolino-Volano
 # CSCI 77800 Fall 2022
 # collaborators: 
