@@ -1,0 +1,28 @@
+Max & Dave
+
+ALGORITHM
+
+// STEP #1:
+  //Create airplane seats
+
+//STEP #2:  
+  //Initialize airplane seats : empty = 0
+
+ //STEP #3
+  // Randomly Fills the first 10 seats with Economy Plus passengers 90% of the time
+  // on the basis of previous seasonal studies
+  // Seats assigned at time of ticket purchase
+
+// STEP #4
+  // Randomly fill blocks of 4 economy passengers with probability 66.75% for rows 11 to 12 on the basis of previous seasonsal studies
+  // Assigned seats at time of puchase
+
+ // STEP #5
+  // Randomly fill blocks of 3 economy passengers with probability 75% for rows 13 to 15 on the basis of previous seasonsal studies
+  // Assign seats at time of ticket purchase.
+
+//STEP #6
+  // Randomly fill blocks of 2 economy passengers with probability 55.56% for rows 16 to 21 on the basis of previous seasonsal studies
+  // Seats assigned at time of ticket purchase
+
+// STEP#7: Fill All Remaining Seats with SOLO Travelers
